@@ -1,4 +1,6 @@
 # Global Temperature Anomalies Prediction
+***Deep Learning*** 
+
 **Project Description**: This project aims to predict global temperature changes using historical temperature anomaly data. By utilizing LSTM (Long Short-Term Memory) networks, we can model and predict future temperature anomalies based on past data.
 
 **Libraries used**: Python, TensorFlow (Keras)
