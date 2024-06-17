@@ -3,6 +3,7 @@
 
 **Libraries used**: Python, TensorFlow (Keras)
 , NumPy, Matplotlib, Pandas.
+*Tools Used:* Jupyter Notebook
 
 
 **Methodlogy used**: The methodology involves data preprocessing, exploratory data analysis, data splitting, model building using LSTM networks, and visualization of the results.
